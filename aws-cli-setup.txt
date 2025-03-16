@@ -1,0 +1,26 @@
+Go to browser and search for aws cli download for windows or f your are lazy and dont want to search than dont worry i am here just Download and run the AWS CLI MSI installer for Windows from the below link
+https://awscli.amazonaws.com/AWSCLIV2.msi
+--------------------------------------------------------------------------------------------------------------------------
+on cmd type-> aws
+if you see following on cmd then you are going right 
+--------------------------------------------------------------------------------------------------------------------------
+usage: aws [options] <command> <subcommand> [<subcommand> ...] [parameters]
+To see help text, you can run:
+
+  aws help
+  aws <command> help
+  aws <command> <subcommand> help
+aws: error: the following arguments are required: command
+------------------------------------------------------------------------------------------------------------------------
+for seeing the version -> aws --version
+------------------------------------------------------------------------------------------------------------------------
+now we need to configure aws cmd for that is -> aws configure
+you can see on cmd 
+
+AWS Access Key ID [****************Q2G7]:your access key for which user you want 
+AWS Secret Access Key [****************2PL/]: your secret access key 
+Default region name : the region you want to keep as default
+Default output format [None]: just enter 
+
+-----------------------------------------------------------------------------------------------------------------------
+And all the done
