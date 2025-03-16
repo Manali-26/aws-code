@@ -1,0 +1,2 @@
+Go to browser and search for aws cli download for windows or f your are lazy and dont want to search than dont worry i am here just Download and run the AWS CLI MSI installer for Windows from the below link
+[aws-msi](https://awscli.amazonaws.com/AWSCLIV2.msi)
